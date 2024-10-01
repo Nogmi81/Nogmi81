@@ -84,3 +84,21 @@ h2{
 .arvore-links a img {
     width: 30px;
 }
+
+@media (min-width: 200px) and (max-width: 650px) {
+  
+    .container-principal {
+        width: 70%;
+        height: 80%;
+        margin: 0 auto;
+    }
+
+    .perfil {
+        width: 80px;
+        height: 80px;        
+    }
+    
+    .titulo-perfil {
+        font-size: 75%;        
+    }
+}    
