@@ -85,6 +85,9 @@ h2{
     width: 30px;
 }
 
+.center{
+    text-align: center;
+}
 @media (min-width: 200px) and (max-width: 650px) {
   
     .container-principal {
