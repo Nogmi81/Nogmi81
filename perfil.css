@@ -85,16 +85,6 @@ h2{
     width: 30px;
 }
 
-.center{
-    text-align: center;
-    margin: 0 auto;
-    width: 500px;
-    background-color: #666;
-}
-.center:hover {
-    background-color: #00A2E8;
-}
-
 @media (min-width: 200px) and (max-width: 650px) {
   
     .container-principal {
