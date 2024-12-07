@@ -7,6 +7,14 @@
   font-family: "Poppins", sans-serif;
 }
 
+.topo {
+  width: 100%;
+  padding: 15px 0px;
+  text-align: center;
+  background-color: #1f1f1f;
+  color: #fff;
+}
+
 .main {
   /* background-color: #f0f0f0; */
   background-color: #ccc;
