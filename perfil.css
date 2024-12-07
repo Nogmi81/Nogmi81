@@ -86,7 +86,7 @@ h2{
 }
 
 .center{
-    text-align: center;
+    margin: 0 auto;
 }
 @media (min-width: 200px) and (max-width: 650px) {
   
