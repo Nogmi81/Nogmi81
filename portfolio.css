@@ -15,15 +15,16 @@
   color: #fff;
 }
 
-.link-topo{
+.link-topo a{
   color: #000;
   text-decoration: none;
+  font-size: 18px;
 }
 
-.link-topo:hover{
-  color: #000;
+.link-topo a:hover{
   text-decoration: underline;
 }
+
 .main {
   /* background-color: #f0f0f0; */
   background-color: #ccc;
