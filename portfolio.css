@@ -16,12 +16,13 @@
 }
 
 .link-topo a{
-  color: #000;
+  color: #fff;
   text-decoration: none;
   font-size: 18px;
 }
 
 .link-topo a:hover{
+  color: #ccc;
   text-decoration: underline;
 }
 
