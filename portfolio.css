@@ -15,6 +15,15 @@
   color: #fff;
 }
 
+.link-topo{
+  color: #000;
+  text-decoration: none;
+}
+
+.link-topo:hover{
+  color: #000;
+  text-decoration: underline;
+}
 .main {
   /* background-color: #f0f0f0; */
   background-color: #ccc;
