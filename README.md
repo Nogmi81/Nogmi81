@@ -5,11 +5,11 @@
 
  ⚡ https://nogmi81.github.io/Nogmi81/
 
-<div>
+<!-- <div>
   <a href="https://github.com/Nogmi81">
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogmi81&layout=compact&langs_count=16&theme=dracula"/>
   </a>
-</div>
+</div> -->
 
 ##
 <div style="display: inline-block">
