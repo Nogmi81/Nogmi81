@@ -20,9 +20,9 @@
  </div>
  <br><br>
 <p> <img align="center" src="https://github.com/Nogmi81/Nogmi81/blob/main/img/QRCode.png"></p>
-<br><br>
+<br>
 <div>
-  <a href="https://www.linkedin.com/in/andretnmiranda/" target="_blank">
+  ##Contate-me: <a href="https://www.linkedin.com/in/andretnmiranda/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
