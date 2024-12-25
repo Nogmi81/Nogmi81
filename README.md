@@ -18,7 +18,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
-<p> <img align="center" src="https://github.com/Nogmi81/Nogmi81/blob/main/img/advocacia.jpg"></p>
+<p> <img align="center" src="https://github.com/Nogmi81/Nogmi81/blob/main/img/QRCode.png"></p>
 ##
 ## Contate-me!! 👋
 <div>
