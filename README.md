@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning (more) HTML5, CSS3 and JS
 - 💞️ I'm looking to collaborate with more responsive web
 
- ⚡ https://nogmi81.github.io/Nogmi81/
-
+ 
 <!-- <div>
   <a href="https://github.com/Nogmi81">
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogmi81&layout=compact&langs_count=16&theme=dracula"/>
@@ -17,7 +16,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
- <br><br>
+ <br><br>Meu Portfólio:
+ ⚡ https://nogmi81.github.io/Nogmi81/
 <p> <img align="center" src="https://github.com/Nogmi81/Nogmi81/blob/main/img/QRCode.png"></p>
 <br>##Contate-me:
 <div>
