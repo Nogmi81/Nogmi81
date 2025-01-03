@@ -17,7 +17,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
  <br><br>Meu Portfólio:
- ⚡ https://nogmi81.github.io/Nogmi81/
+ ⚡ https://nogmi81.github.io/Nogmi81/<br
 <p> <img align="center" src="https://github.com/Nogmi81/Nogmi81/blob/main/img/QRCode.png"></p>
 <br>##Contate-me:
 <div>
