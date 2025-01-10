@@ -62,7 +62,7 @@ img:hover{
 
 .container-info {
   padding: 0px 10px;
-  height: 100px;
+  height: 60px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -70,14 +70,16 @@ img:hover{
   text-align: center;
 }
 
-.container-info a {
-  font-size: 18px;
-  text-decoration: underline;
-  color: #000;
+.container-info img{
+  width: 30px;
 }
 
-.container-info a:hover {
-  color: #ca3131;
+.container-info img:hover {
+  width: 35px;
+}
+
+p{
+  font-weight: 600;
 }
 
 /* Início CSS Rodapé */
